@@ -1,0 +1,14 @@
+C:\Users\Exaze Trsa25\paymentProcess\processPaymemtSystem\obj\Debug\net8.0\processPaymemtSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Exaze Trsa25\paymentProcess\processPaymemtSystem\obj\Debug\net8.0\processPaymemtSystem.AssemblyInfoInputs.cache
+C:\Users\Exaze Trsa25\paymentProcess\processPaymemtSystem\obj\Debug\net8.0\processPaymemtSystem.AssemblyInfo.cs
+C:\Users\Exaze Trsa25\paymentProcess\processPaymemtSystem\obj\Debug\net8.0\processPaymemtSystem.csproj.CoreCompileInputs.cache
+C:\Users\Exaze Trsa25\paymentProcess\processPaymemtSystem\bin\Debug\net8.0\processPaymemtSystem.exe
+C:\Users\Exaze Trsa25\paymentProcess\processPaymemtSystem\bin\Debug\net8.0\processPaymemtSystem.deps.json
+C:\Users\Exaze Trsa25\paymentProcess\processPaymemtSystem\bin\Debug\net8.0\processPaymemtSystem.runtimeconfig.json
+C:\Users\Exaze Trsa25\paymentProcess\processPaymemtSystem\bin\Debug\net8.0\processPaymemtSystem.dll
+C:\Users\Exaze Trsa25\paymentProcess\processPaymemtSystem\bin\Debug\net8.0\processPaymemtSystem.pdb
+C:\Users\Exaze Trsa25\paymentProcess\processPaymemtSystem\obj\Debug\net8.0\processPaymemtSystem.dll
+C:\Users\Exaze Trsa25\paymentProcess\processPaymemtSystem\obj\Debug\net8.0\refint\processPaymemtSystem.dll
+C:\Users\Exaze Trsa25\paymentProcess\processPaymemtSystem\obj\Debug\net8.0\processPaymemtSystem.pdb
+C:\Users\Exaze Trsa25\paymentProcess\processPaymemtSystem\obj\Debug\net8.0\processPaymemtSystem.genruntimeconfig.cache
+C:\Users\Exaze Trsa25\paymentProcess\processPaymemtSystem\obj\Debug\net8.0\ref\processPaymemtSystem.dll
